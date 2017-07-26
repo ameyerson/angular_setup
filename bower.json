@@ -1,0 +1,10 @@
+{
+	"name": "ameyerson",
+	"version": "0.0.0",
+	"private": true,
+	"dependencies": {
+		"jquery": "",
+		"angular": "",
+		"bootstrap": "3.3.2"
+	}
+}
